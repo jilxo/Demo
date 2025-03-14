@@ -1,0 +1,178 @@
+[
+  {
+    "name": "actor",
+    "label": "actor",
+    "labels": "actores",
+    "subject": "el",
+    "subjects": "los",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "actorType",
+    "label": "tipo de actor",
+    "labels": "tipos de actores",
+    "subject": "el",
+    "subjects": "los",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "font",
+    "label": "fuente",
+    "labels": "fuentes",
+    "subject": "la",
+    "subjects": "las",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 2000,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "variable",
+    "label": "variable",
+    "labels": "variables",
+    "subject": "la",
+    "subjects": "las",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "indicatorType",
+    "label": "tipo de indicador",
+    "labels": "tipos de indicadores",
+    "subject": "el",
+    "subjects": "los",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "measuringUnit",
+    "label": "unidad de medida",
+    "labels": "unidades de medidas",
+    "subject": "la",
+    "subjects": "las",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "description",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "descripción"
+      }
+    ]
+  },
+  {
+    "name": "sense",
+    "label": "sentido",
+    "labels": "sentidos",
+    "subject": "el",
+    "subjects": "los",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 200,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  },
+  {
+    "name": "visualRepresentation",
+    "label": "representación visual",
+    "labels": "representaciones visuales",
+    "subject": "la",
+    "subjects": "las",
+    "attributes": [
+      {
+        "id": "id",
+        "type": "number",
+        "subject": "el",
+        "label": "id"
+      },
+      {
+        "id": "name",
+        "type": "string",
+        "length": 100,
+        "subject": "el",
+        "label": "nombre"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+C:\home\itm\asw\sistemaIndicadores\sistemaindicadores.client\obj\Debug\sistemaindicadores.client.esproj.CoreCompileInputs.cache
+C:\Users\Mateo\Documents\ITM\APPP\Nueva carpeta\SistemaIndicadores\SistemaIndicadores\sistemaindicadores.client\obj\Debug\sistemaindicadores.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Nueva carpetaAPP\Nueva carpeta\SistemaIndicadores\SistemaIndicadores\sistemaindicadores.client\obj\Debug\sistemaindicadores.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Nueva carpetaAPP\Demo\Backend\SistemaIndicadores\sistemaindicadores.client\obj\Debug\sistemaindicadores.client.esproj.CoreCompileInputs.cache

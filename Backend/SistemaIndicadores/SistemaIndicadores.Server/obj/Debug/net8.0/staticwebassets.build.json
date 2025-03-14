@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "yB96O27R6ySMT2xe4agwT73BQ6Niu5IUQeVtKUGFqsQ=",
+  "Source": "SistemaIndicadores.Server",
+  "BasePath": "_content/SistemaIndicadores.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Administrador\\Downloads\\Nueva carpetaAPP\\Nueva carpeta\\SistemaIndicadores\\SistemaIndicadores\\sistemaindicadores.client\\sistemaindicadores.client.esproj",
+      "Version": 2,
+      "Source": "sistemaindicadores.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

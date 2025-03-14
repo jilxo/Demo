@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Administrador\\Downloads\\Nueva carpetaAPP\\Nueva carpeta\\SistemaIndicadores\\SistemaIndicadores\\SistemaIndicadores.Server\\..\\sistemaindicadores.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
